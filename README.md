@@ -99,6 +99,7 @@ email: shimaaslalemmhanash@gmail.com
 |:---:|:---|:---:|:---:|
 | **🎓 TECI System** | Comprehensive academic & administrative operations management platform powering a full educational institute. Features student management, course registration, grading systems & reporting dashboards. | [![Live](https://img.shields.io/badge/🌐%20Live%20Demo-teci.edu.ye-28a745?style=for-the-badge)](https://teci.edu.ye/) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) |
 | **🎯 QUNI Distance Learning** | Full-featured distance learning platform enabling remote education with course management, content delivery, student enrollment & progress tracking for a university system. | [![Live](https://img.shields.io/badge/🌐%20Live%20Demo-quni.edu.ye-28a745?style=for-the-badge)](https://quni.edu.ye/cent/) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) |
+| **🏨 IBB City Resort** | Luxury tourism resort website for one of Yemen's most prestigious hospitality destinations. Fully RTL Arabic website featuring villa booking, event halls, swimming pools & restaurant services. SEO-optimized with local search ranking. | [![Live](https://img.shields.io/badge/🌐%20Live%20Demo-ibbcityresort.com-28a745?style=for-the-badge)](https://ibbcityresort.com/) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) |
 
 </div>
 
@@ -110,7 +111,7 @@ email: shimaaslalemmhanash@gmail.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shim396&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shim396&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&hide=contribs"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shim396&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
 
 </div>
@@ -133,7 +134,7 @@ email: shimaaslalemmhanash@gmail.com
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shim396&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shim396&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
